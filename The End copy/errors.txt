@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 7: invalid syntax
+    Fade(0.1, 0.1, 0.1 color="white")
+                        ^
+
+Ren'Py Version: Ren'Py 8.3.3.24111502
+Thu Dec 12 01:15:22 2024
